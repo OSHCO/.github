@@ -1,11 +1,11 @@
 
-<img src="https://www.oshco.com/wp-content/uploads/2022/05/MicrosoftTeams-image-26.png"/>
+![olayan-logo](https://github.com/OSHCO/.github/assets/12120015/1e3992b7-a5df-4a05-8d61-aabbd5f93120)
 
 # Our Purpose
 
 To be a positive, transformative force, fostering passion, inclusion, integrity and excellence in the Kingdom and beyond. Through our offerings of products and services, we contribute to the communities within which we operate, whilst also maximising value for stakeholders.
 
-# Useful Reasources as Developer
+# Useful Reasources
 * [Official OSHCO Website](https://www.oshco.com/)
 * [Material 3 Guide](https://m3.material.io)
 * [WebFiori Framework Docs](https://webfiori.com/learn)
