@@ -9,7 +9,7 @@ To be a positive, transformative force, fostering passion, inclusion, integrity 
 * [Official OSHCO Website](https://www.oshco.com/)
 * [Material 3 Guide](https://m3.material.io)
 * [WebFiori Framework Docs](https://webfiori.com/learn)
-* [WebFiori Cooding Standards](https://github.com/WebFiori/docs/blob/master/coding-standards.md)
+* [WebFiori Coding Standards](https://github.com/WebFiori/docs/blob/master/coding-standards.md)
 * [Vue Tutorial](https://vuejs.org/tutorial)
 * [Vuetify Components Guide](https://vuetifyjs.com/en/components/all/)
 * [Color Picker](https://coolors.co)
