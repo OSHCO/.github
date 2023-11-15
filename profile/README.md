@@ -14,6 +14,15 @@ To be a positive, transformative force, fostering passion, inclusion, integrity 
 * [Vuetify Components Guide](https://vuetifyjs.com/en/components/all/)
 * [Color Picker](https://coolors.co)
 * [Material Design Icons Library](https://pictogrammers.com/library/mdi/)
+
+# Olayan on Social Media
+* [LinkedIn](https://www.linkedin.com/company/oshcoksa/)
+* [Twitter/X](https://twitter.com/olayansaudi)
+
+
+<p style="text-align:center;font-weight:bold">
+  🟦Ever Forward for Future Generations🟦
+</p>
 <!--
 
 **Here are some ideas to get you started:**
