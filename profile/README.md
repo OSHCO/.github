@@ -12,8 +12,14 @@ To be a positive, transformative force, fostering passion, inclusion, integrity 
 * [WebFiori Coding Standards](https://github.com/WebFiori/docs/blob/master/coding-standards.md)
 * [Vue Tutorial](https://vuejs.org/tutorial)
 * [Vuetify Components Guide](https://vuetifyjs.com/en/components/all/)
-* [Color Picker](https://coolors.co)
 * [Material Design Icons Library](https://pictogrammers.com/library/mdi/)
+* [Mozilla web security guidelines](https://infosec.mozilla.org/guidelines/web_security)
+* [Content Security Policy (CSP)](https://content-security-policy.com)
+  
+# Tools
+* [SRI Hash Generator for Web Resources](https://www.srihash.org/)
+* [Color Picker](https://coolors.co)
+* [CSP Evaluator](https://csp-evaluator.withgoogle.com/)
 
 # Olayan on Social Media
 * [LinkedIn](https://www.linkedin.com/company/oshcoksa/)
