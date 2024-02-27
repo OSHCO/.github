@@ -15,6 +15,7 @@ To be a positive, transformative force, fostering passion, inclusion, integrity 
 * [Material Design Icons Library](https://pictogrammers.com/library/mdi/)
 * [Mozilla web security guidelines](https://infosec.mozilla.org/guidelines/web_security)
 * [Content Security Policy (CSP)](https://content-security-policy.com)
+* [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
   
 # Tools
 * [SRI Hash Generator for Web Resources](https://www.srihash.org/)
