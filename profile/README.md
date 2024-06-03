@@ -21,6 +21,7 @@ To be a positive, transformative force, fostering passion, inclusion, integrity 
 * [SRI Hash Generator for Web Resources](https://www.srihash.org/)
 * [Color Picker](https://coolors.co)
 * [CSP Evaluator](https://csp-evaluator.withgoogle.com/)
+* [Resize Image](https://www.reduceimages.com/)
 
 # Olayan on Social Media
 * [LinkedIn](https://www.linkedin.com/company/oshcoksa/)
